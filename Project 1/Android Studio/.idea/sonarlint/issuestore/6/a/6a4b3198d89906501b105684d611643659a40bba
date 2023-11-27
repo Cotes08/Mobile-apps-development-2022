@@ -1,0 +1,41 @@
+
+Z
+java:S1874œ">Remove this use of "startActivityForResult"; it is deprecated.(íæÿåıÿÿÿÿ
+U
+java:S1874¤">Remove this use of "startActivityForResult"; it is deprecated.(åíå—
+a
+java:S1874¬"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+G
+java:S1874´"1Remove this use of "getBitmap"; it is deprecated.(è”è
+W	java:S125º"<This block of commented-out lines of code should be removed.(©•³áûÿÿÿÿ
+R	java:S125Ã"<This block of commented-out lines of code should be removed.(’€ƒÙ
+i	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÜ•şÿÿÿÿ
+d	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¤û
+[
+java:S2147ÿ"ECombine this catch with the one at line 252, which has the same body.(„çï9
+]	java:S899û"BDo something with the "boolean" value returned by "createNewFile".(»¨šãøÿÿÿÿ
+?
+java:S1125Í"(Remove the unnecessary boolean literals.(€™‹ç
+>
+java:S1125Ò"(Remove the unnecessary boolean literals.(©Áíe
+i	java:S100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ë¬¨ùÿÿÿÿ
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö‰£ûÿÿÿÿ
+k	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı°£Üşÿÿÿÿ
+l	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÜ•şÿÿÿÿ
+g	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¤û
+=
+java:S1604a"(Make this anonymous inner class a lambda(¸ê•N
+>
+java:S1604•"(Make this anonymous inner class a lambda(½±ø4
+?
+java:S1604 "(Make this anonymous inner class a lambda(¯Šì
+u
+java:S1488è"YImmediately return this expression instead of assigning it to the temporary variable "b".(íïÕ¾şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µù¦„ùÿÿÿÿ
+a
+java:S2259à"JA "NullPointerException" could be thrown; "outputStream" is nullable here.(‚çÿş
+c
+java:S2095ˆ"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ï·Î
+c
+java:S2095º"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ùÄŒ¾

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Practica_1</string>
+    <string name="btnTickets">TICKETS</string>
+    <string name="btnCategoria">CATEGORIAS</string>
+    <string name="menu3puntos">Prueba de menu</string>
+    <string name="pruebademenu">Toast de prueba</string>
+    <string name="hintCategoria">Categoria</string>
+    <string name="hintDescCorta">Descripción corta</string>
+    <string name="hintDescLarga">Descripción larga</string>
+    <string name="hintDetalles">Detalles adicionales</string>
+    <string name="addCategoria">Añadir Categoria</string>
+    <string name="ToastCat">No hay ninguna categoria creada</string>
+    <string name="ToastTick">No hay ningun Ticket creado</string>
+    <string name="hintTicket">Nombre del ticket</string>
+    <string name="hintCatTicket">Nombre de la categoria</string>
+    <string name="hintPrecioTicket">Precio del ticket</string>
+    <string name="hintFechaTicket">Fecha de el ticket</string>
+    <string name="addTicket">Añadir Ticket</string>
+    <string name="floatinbuttonticket">boton</string>
+    <string name="TomarFoto">Tomar Foto</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="selecFecha">Seleccionar Fecha</string>
+    <string name="imagen">Imagen</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="ficheroNoDispinible">Fichero no disponible</string>
+    <string name="preguntaBorrarCat">¿Deseas borrar esta categoria?</string>
+    <string name="borrarCat">Borrar Categoria</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="ErrorImagen">"Se ha producido un error al cargar la imagen</string>
+    <string name="todo">TODO</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButtonTicket"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="27dp"
+        android:clickable="true"
+        app:srcCompat="@android:drawable/ic_input_add"
+        android:contentDescription="@string/todo"
+        android:focusable="true"
+        tools:ignore="ContentDescription" />
+
+    <GridView
+        android:id="@+id/gridViewCategorias"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="101dp"
+        android:columnWidth="70dp"
+        android:gravity="center"
+        android:numColumns="2" />
+
+
+</RelativeLayout>

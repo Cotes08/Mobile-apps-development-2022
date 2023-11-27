@@ -1,0 +1,22 @@
+
+E
+java:S3740@"/Provide the parametrized type for this generic.(™è‘
+s
+java:S1450"]Remove the "adapterTickets" field and declare it as a local variable in the relevant methods.(Ó…šÖ
+l
+java:S1450"VRemove the "context" field and declare it as a local variable in the relevant methods.(Å‚…ø
+s
+java:S1450"XRemove the "lvTickets" field and declare it as a local variable in the relevant methods.(È´Ø•þÿÿÿÿ
+A
+java:S1068"+Remove this unused "context" private field.(Å‚…ø
+C
+java:S1604,"(Make this anonymous inner class a lambda(ÏŸâÇúÿÿÿÿ
+C
+java:S1604O"(Make this anonymous inner class a lambda(ÖÛéõþÿÿÿÿ
+>
+java:S1604l"(Make this anonymous inner class a lambda(óÔÃ˜
+>
+java:S1604|"(Make this anonymous inner class a lambda(„¬Ý™
+C
+java:S1604a"(Make this anonymous inner class a lambda(Ñ•—éùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µù¦„ùÿÿÿÿ

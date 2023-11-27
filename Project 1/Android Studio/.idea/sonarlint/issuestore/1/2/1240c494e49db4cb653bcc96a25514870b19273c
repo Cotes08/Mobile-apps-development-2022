@@ -1,0 +1,32 @@
+
+E
+java:S3740f"/Provide the parametrized type for this generic.(ˆÉ€Ô
+d
+java:S1874Ó"HRemove this use of "Theme_Holo_Light_Dialog_MinWidth"; it is deprecated.(·–†ˆıÿÿÿÿ
+Z
+java:S1874ô">Remove this use of "startActivityForResult"; it is deprecated.(íæÿåıÿÿÿÿ
+U
+java:S1874ü">Remove this use of "startActivityForResult"; it is deprecated.(åíå—
+a
+java:S1874ƒ"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+G
+java:S1874‹"1Remove this use of "getBitmap"; it is deprecated.(è”è
+W	java:S125‘"<This block of commented-out lines of code should be removed.(©•³áûÿÿÿÿ
+R	java:S125š"<This block of commented-out lines of code should be removed.(’€ƒÙ
+?
+java:S1125Î"(Remove the unnecessary boolean literals.(€™‹ç
+t
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(şùöÿÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(ª¥
+?
+java:S1604Ï"(Make this anonymous inner class a lambda(í ²Ï
+D
+java:S1604Ü"(Make this anonymous inner class a lambda(Ëïö¦ıÿÿÿÿ
+D
+java:S1604î"(Make this anonymous inner class a lambda(“Û×·ùÿÿÿÿ
+?
+java:S1604ø"(Make this anonymous inner class a lambda(¯Šì
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µù¦„ùÿÿÿÿ
+c
+java:S2095¼"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ùÄŒ¾

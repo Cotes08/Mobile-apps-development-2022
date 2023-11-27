@@ -1,0 +1,25 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ğü˜Îıÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰¨ë„
+c	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œº°ù
+8
+java:S1110Ñ"!Remove these useless parentheses.(ôÈ¶ú
+g
+java:S1192"QDefine a constant instead of duplicating this literal "DescripcionCorta" 3 times.(ğñÙç
+c
+java:S1192"MDefine a constant instead of duplicating this literal "ImagenTicket" 3 times.(ğñÙç
+b
+java:S1192"LDefine a constant instead of duplicating this literal "FechaTicket" 3 times.(ğñÙç
+g
+java:S1192"QDefine a constant instead of duplicating this literal "DescripcionLarga" 3 times.(ğñÙç
+c
+java:S1192:"HDefine a constant instead of duplicating this literal "Tickets" 3 times.(±ò‹“ÿÿÿÿÿ
+c
+java:S1192"MDefine a constant instead of duplicating this literal "PrecioTicket" 3 times.(ğñÙç
+b
+java:S1192"LDefine a constant instead of duplicating this literal "idCategoria" 3 times.(ğñÙç
+c
+java:S1192"MDefine a constant instead of duplicating this literal "NombreTicket" 3 times.(ğñÙç
+†
+java:S13195"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(œº°ù
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÖĞX

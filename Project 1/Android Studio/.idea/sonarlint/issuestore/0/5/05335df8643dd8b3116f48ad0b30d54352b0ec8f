@@ -1,0 +1,9 @@
+
+l	java:S116"WRename this field "NombreTicket" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëò­’
+l	java:S116	"WRename this field "PrecioTicket" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚ô
+k	java:S116
+"VRename this field "FechaTicket" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¢ì¡
+p	java:S116"[Rename this field "DescripcionCorta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ŞÂ¨
+p	java:S116"[Rename this field "DescripcionLarga" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—×¸¢
+q	java:S116"WRename this field "ImagenTicket" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾êã˜şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Òõúÿÿÿÿ

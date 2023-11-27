@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AnyadirTicket">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/descripcion"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/TextTicket"
+                android:layout_width="184dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="39dp"
+                android:layout_marginBottom="20dp"
+                android:autofillHints=""
+                android:ems="10"
+                android:hint="@string/hintTicket"
+                android:inputType="textPersonName"
+                android:textSize="16sp" />
+
+            <ImageButton
+                android:id="@+id/ImagenTicket"
+                android:layout_width="350dp"
+                android:layout_height="300dp"
+                android:layout_marginStart="30dp"
+                android:contentDescription="@string/imagen"
+                app:srcCompat="@android:drawable/ic_menu_camera" />
+
+            <Button
+                android:id="@+id/TomarFotoTicket"
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:text="@string/TomarFoto" />
+
+            <Spinner
+                android:id="@+id/CategTicket"
+                android:layout_width="250dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="16sp"/>
+
+            <EditText
+                android:id="@+id/PrecioTicket"
+                android:layout_width="184dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginBottom="20dp"
+                android:autofillHints=""
+                android:ems="10"
+                android:hint="@string/hintPrecioTicket"
+                android:inputType="numberDecimal"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/FechaTicket"
+                android:layout_width="184dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginBottom="10dp"
+                android:ems="10"
+                android:hint="@string/hintFechaTicket"
+                android:inputType="textPersonName"
+                android:textSize="16sp"
+                android:importantForAutofill="no" />
+
+            <Button
+                android:id="@+id/buttonAddFecha"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginBottom="20dp"
+                android:text="@string/selecFecha" />
+
+            <EditText
+                android:id="@+id/TicketDescCorta"
+                android:layout_width="326dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginBottom="20dp"
+                android:ems="10"
+                android:hint="@string/hintDescCorta"
+                android:inputType="textPersonName"
+                android:textSize="16sp"
+                android:autofillHints="" />
+
+            <EditText
+                android:id="@+id/TicketDescLarga"
+                android:layout_width="324dp"
+                android:layout_height="105dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginBottom="20dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:hint="@string/hintDescLarga"
+                android:inputType="textMultiLine"
+                android:textSize="16sp"
+                android:autofillHints="" />
+
+            <Button
+                android:id="@+id/buttonAddTicket"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="130dp"
+                android:layout_marginBottom="30dp"
+                android:text="@string/addTicket" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AnyadirCategoria">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.01"
+        tools:layout_editor_absoluteX="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.000"
+            tools:layout_editor_absoluteX="0dp">
+
+            <EditText
+                android:id="@+id/TextCategoria"
+                android:layout_width="184dp"
+                android:layout_height="49dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="30dp"
+                android:ems="10"
+                android:hint="@string/hintCategoria"
+                android:inputType="textPersonName"
+                android:textSize="16sp" />
+
+            <ImageButton
+                android:id="@+id/ImagenCategoria"
+                android:layout_width="350dp"
+                android:layout_height="300dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="30dp"
+                android:contentDescription="Imagen"
+                app:srcCompat="@android:drawable/ic_menu_camera" />
+
+            <Button
+                android:id="@+id/TomarFotoCategoria"
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:text="@string/TomarFoto" />
+
+
+            <EditText
+                android:id="@+id/TextCorCategoria"
+                android:layout_width="326dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="30dp"
+                android:ems="10"
+                android:hint="@string/hintDescCorta"
+                android:inputType="textPersonName"
+                android:textSize="16sp" />
+
+
+            <EditText
+                android:id="@+id/TextLargCategoria"
+                android:layout_width="324dp"
+                android:layout_height="105dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="30dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:hint="@string/hintDescLarga"
+                android:inputType="textMultiLine"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/textDetalles"
+                android:layout_width="326dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="30dp"
+                android:ems="10"
+                android:hint="@string/hintDetalles"
+                android:inputType="textPersonName"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/buttonAddCategoria"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="115dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="30dp"
+                android:text="@string/addCategoria" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

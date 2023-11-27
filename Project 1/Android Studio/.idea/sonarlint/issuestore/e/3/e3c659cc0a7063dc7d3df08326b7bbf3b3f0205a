@@ -1,0 +1,6 @@
+
+z
+java:S1319"eThe type of "array" should be an interface such as "List" rather than the implementation "ArrayList".(äèŸ)
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ë¹äşÿÿÿÿ
+V
+java:S1226)"AIntroduce a new variable instead of reusing the parameter "view".(°…"

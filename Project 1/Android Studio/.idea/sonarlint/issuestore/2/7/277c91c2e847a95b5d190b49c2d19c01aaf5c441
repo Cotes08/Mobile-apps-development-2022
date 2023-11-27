@@ -1,0 +1,12 @@
+
+o	java:S116	"ZRename this field "NombreCategoria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ ½
+p	java:S116
+"[Rename this field "DescripcionCorta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ŞÂ¨
+p	java:S116"[Rename this field "DescripcionLarga" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—×¸¢
+v	java:S116"\Rename this field "DetallesCategoria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø„˜¹ùÿÿÿÿ
+t	java:S116"ZRename this field "ImagenCategoria" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒõØıÿÿÿÿ
+y
+java:S1450"^Remove the "categoriacustom" field and declare it as a local variable in the relevant methods.(½âçßüÿÿÿÿ
+L
+java:S1948"1Make "ImagenCategoria" transient or serializable.(ŒõØıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Òõúÿÿÿÿ

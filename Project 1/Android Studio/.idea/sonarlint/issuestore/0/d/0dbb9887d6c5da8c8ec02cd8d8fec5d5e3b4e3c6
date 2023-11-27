@@ -1,0 +1,38 @@
+
+v
+java:S1450'"`Remove the "adapterCategorias" field and declare it as a local variable in the relevant methods.(ÿ¢Ô€
+l
+java:S1450("VRemove the "context" field and declare it as a local variable in the relevant methods.(Å‚…ø
+q
+java:S1450&"[Remove the "gvCategorias" field and declare it as a local variable in the relevant methods.(çˆ­õ
+Q	java:S899‡";Do something with the "boolean" value returned by "delete".(ññ†à
+e
+java:S4042‡"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ññ†à
+[
+java:S2147ä"ECombine this catch with the one at line 225, which has the same body.(„çï9
+]	java:S899à"BDo something with the "boolean" value returned by "createNewFile".(»¨šãøÿÿÿÿ
+>
+java:S1125‹"(Remove the unnecessary boolean literals.(©Áíe
+?
+java:S1125‘"(Remove the unnecessary boolean literals.(€™‹ç
+A
+java:S1068("+Remove this unused "context" private field.(Å‚…ø
+t
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(şùöÿÿÿÿÿ
+C
+java:S1604<"(Make this anonymous inner class a lambda(òƒË†ıÿÿÿÿ
+>
+java:S1604\"(Make this anonymous inner class a lambda(ã˜®©
+>
+java:S1604x"(Make this anonymous inner class a lambda(¦¿µÃ
+?
+java:S1604“"(Make this anonymous inner class a lambda(ÂÊØ‘
+>
+java:S1604n"(Make this anonymous inner class a lambda(ÜÙıÒ
+u
+java:S1488™"YImmediately return this expression instead of assigning it to the temporary variable "b".(íïÕ¾şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µù¦„ùÿÿÿÿ
+c
+java:S2095Á"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ùÄŒ¾
+c
+java:S2095í"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ï·Î
